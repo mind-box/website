@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00775544.css",
+    "main.js": "/static/js/main.eb91a7be.js",
+    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
+    "static/media/oc-on-the-laptop.png": "/static/media/oc-on-the-laptop.da9926968704fd409783.png",
+    "static/media/nc-woman-typing-on-machine.png": "/static/media/nc-woman-typing-on-machine.16ae36ce152235470656.png",
+    "static/media/XiaolaiMonoSC-Regular.ttf": "/static/media/XiaolaiMonoSC-Regular.cac32d7ea74c44e43b0d.ttf",
+    "static/media/oc-thinking.png": "/static/media/oc-thinking.d8910940481515189659.png",
+    "static/media/logo.png": "/static/media/logo.3d708571ceac61e9effb.png",
+    "static/media/undraw_note.svg": "/static/media/undraw_note.33e3c6d0636bd994a1a6f14ffaa4cdb0.svg",
+    "static/media/undraw_coffee.svg": "/static/media/undraw_coffee.ea2afe15043bcbdd30403347900090f5.svg",
+    "static/media/undraw_fun-arrow.svg": "/static/media/undraw_fun-arrow.8d4fbf518f15a4a9f77c6acff380febf.svg",
+    "static/media/undraw_heart.svg": "/static/media/undraw_heart.dc39d6cc7cd25de1e0a543429ff82b90.svg",
+    "static/media/undraw_code.svg": "/static/media/undraw_code.ce366f0a68c52d2ff4b1b4d42dc532d9.svg",
+    "static/media/undraw_fun-underline.svg": "/static/media/undraw_fun-underline.3352f1837bc38da58468fc9add25fd5b.svg",
+    "index.html": "/index.html",
+    "static/media/undraw_curved-underline.svg": "/static/media/undraw_curved-underline.220d6268d363bd02c86738e493adb4a4.svg",
+    "main.00775544.css.map": "/static/css/main.00775544.css.map",
+    "main.eb91a7be.js.map": "/static/js/main.eb91a7be.js.map",
+    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00775544.css",
+    "static/js/main.eb91a7be.js"
+  ]
+}
