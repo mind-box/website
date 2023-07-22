@@ -1,0 +1,26 @@
+.layout {
+  overflow: auto;
+  height: 100vh;
+
+  & .header {
+    height: 100px;
+    max-width: 1024px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    & img.logo {
+      width: 80px;
+      height: 80px;
+    }
+
+    & .app-name {
+      font-size: 24px;
+      font-weight: 500;
+      color: var(--text-level-2);
+      margin-left: 5px;
+      font-family: XiaolaiMonoSC;
+    }
+  }
+}

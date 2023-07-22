@@ -1,38 +1,69 @@
-.App {
-  text-align: center;
+@font-face {
+  font-family: XiaolaiMonoSC;
+  src: url(./assets/fonts/XiaolaiMonoSC-Regular.ttf);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+:root {
+  --theme-color: #6C63FF;
+ }
+
+ :root [data-theme=light] {
+  --background-body: #f2f3f5;
+  --background-level-1: #fff;
+  --background-level-2: #f6f7f8;
+  --background-level-3: #f2f3f5;
+  --background-level-4: #e5e6e9;
+  --background-level-5: #babdc5;
+  --text-level-1: #121316;
+  --text-level-2: #23252a;
+  --text-level-3: #696f7d;
+  --text-level-4: #9ea3ad;
+  --text-level-5: #babdc5;
+  --nav-text-level-1: #121316;
+  --nav-text-level-2: #828996;
+  --nav-text-level-3: #9ea3ad;
+  --nav-background-level-1: #fff;
+  --nav-background-level-2: #e5e6e9;
+  --nav-icon-inactive: #3a3e45;
+  --nav-hotkey-bg: #e5e6e9;
+  --nav-hotkey-bg-active: #f2f3f5;
+  --nav-hotkey-text: #7a819b;
+  --delete-text: #fa541c;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+:root [data-theme=dark] {
+  --background-body: #121316;
+  --background-level-1: #1c1d21;
+  --background-level-2: #23252a;
+  --background-level-3: #2e3237;
+  --background-level-4: #2e3237;
+  --text-level-1: #e5e6e9;
+  --text-level-2: #babdc5;
+  --text-level-3: #828996;
+  --text-level-4: #696f7d;
+  --text-level-5: #525761;
+  --nav-text-level-1: #e5e6e9;
+  --nav-text-level-2: #9ea3ad;
+  --nav-text-level-3: #696f7d;
+  --nav-background-level-1: #23252a;
+  --nav-background-level-2: #1c1d21;
+  --nav-icon-inactive: #9ea3ad;
+  --nav-hotkey-bg: #23252a;
+  --nav-hotkey-bg-active: #1c1d21;
+  --nav-hotkey-text: #828996;
+  --delete-text: #d84a1b;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+html {
+  overflow: hidden;
 }
 
-.App-link {
-  color: #61dafb;
+body {
+  background-color: var(--background-body);
+  font-family: SC, Microsoft YaHei, ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Apple Color Emoji, Arial, sans-serif, Segoe UI Emoji, Segoe UI Symbol;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+a {
+  color: inherit;
+  text-decoration: none;
 }
