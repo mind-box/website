@@ -10,7 +10,7 @@ import curvedUnderlineImg from '../../assets/undraw_curved-underline.svg';
 import codeImg from '../../assets/undraw_code.svg';
 import coffeeImg from '../../assets/undraw_coffee.svg';
 import noteImg from '../../assets/undraw_note.svg';
-import heartImg from '../../assets/undraw_heart.svg';
+import envelopeImg from '../../assets/undraw_envelope.svg';
 import funArrowImg from '../../assets/undraw_fun-arrow.svg';
 
 import './index.scss';
@@ -61,7 +61,7 @@ function Home(): JSX.Element {
         </div>
       </div>
       <div className="footer">
-        <img className="heart" src={heartImg} alt="" />
+        <img className="heart" src={envelopeImg} alt="" />
         <div className="title">联系我们</div>
         <div className="email">ransixi@gmail.com</div>
       </div>
