@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.2769f092.css",
-    "main.js": "/static/js/main.1a0fc733.js",
+    "main.js": "/static/js/main.34ecabf5.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
-    "static/media/logo.png": "/static/media/logo.e6ee6ee7c0689311bb0e.png",
+    "static/media/logo.png": "/static/media/logo.35f605dc31b1a0615087.png",
     "static/media/oc-on-the-laptop.png": "/static/media/oc-on-the-laptop.da9926968704fd409783.png",
     "static/media/nc-woman-typing-on-machine.png": "/static/media/nc-woman-typing-on-machine.16ae36ce152235470656.png",
     "static/media/XiaolaiMonoSC-Regular.ttf": "/static/media/XiaolaiMonoSC-Regular.cac32d7ea74c44e43b0d.ttf",
@@ -17,11 +17,11 @@
     "index.html": "/index.html",
     "static/media/undraw_curved-underline.svg": "/static/media/undraw_curved-underline.220d6268d363bd02c86738e493adb4a4.svg",
     "main.2769f092.css.map": "/static/css/main.2769f092.css.map",
-    "main.1a0fc733.js.map": "/static/js/main.1a0fc733.js.map",
+    "main.34ecabf5.js.map": "/static/js/main.34ecabf5.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2769f092.css",
-    "static/js/main.1a0fc733.js"
+    "static/js/main.34ecabf5.js"
   ]
 }
