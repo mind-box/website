@@ -129,10 +129,11 @@
     box-sizing: border-box;
     position: relative;
 
-    & .heart {
+    & .email-icon {
       position: absolute;
-      top: 340px;
+      top: 350px;
       left: 50%;
+      width: 40px;
       transform: translateX(-50%);
     }
 

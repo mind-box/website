@@ -1,0 +1,24 @@
+.private {
+  width: 100%;
+  color: var(--text-level-3);
+
+  .container {
+    width: 860px;
+    margin: 0 auto;
+  }
+
+  h3 {
+    text-align: center;
+    font-size: 24px;
+    color: var(--text-level-1);
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 28px;
+  }
+
+  strong {
+    color: var(--text-level-2);
+  }
+}

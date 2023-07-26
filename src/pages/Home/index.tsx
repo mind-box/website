@@ -61,7 +61,7 @@ function Home(): JSX.Element {
         </div>
       </div>
       <div className="footer">
-        <img className="heart" src={envelopeImg} alt="" />
+        <img className="email-icon" src={envelopeImg} alt="" />
         <div className="title">联系我们</div>
         <div className="email">ransixi@gmail.com</div>
       </div>
