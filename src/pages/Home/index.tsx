@@ -25,7 +25,7 @@ function Home(): JSX.Element {
           <div className="title">💡会思考的写作助手，让创意更好的发生💥</div>
           <div className="sub-title">灵感盒子，一款完美支持 markdown 语法的笔记软件</div>
           <div className="download-group">
-            <a href="#" className="btn">
+            <a href="https://apps.apple.com/cn/app/%E7%81%B5%E6%84%9F%E7%9B%92%E5%AD%90-markdown-%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6/id6453291713?mt=12" className="btn">
               <AppleOutlined />
               <div className="text">
                 <span className="app-store">App Store</span>
