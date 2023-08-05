@@ -20,7 +20,7 @@ function Home(): JSX.Element {
             <a href="https://apps.apple.com/cn/app/%E7%81%B5%E6%84%9F%E7%9B%92%E5%AD%90-markdown-%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6/id6453291713?mt=12" className="btn">
               <AppleOutlined />
               <div className="text">
-                <span className="app-store">App Store</span>
+                <span className="app-store">Mac App Store</span>
                 <span className="download-text">Download</span>
               </div>
             </a>

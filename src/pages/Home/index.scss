@@ -72,14 +72,13 @@
       margin-top: 40px;
 
       & .btn {
-        width: 100px;
         height: 40px;
-        display: flex;
+        display: inline-flex;
         align-items: center;
         color: var(--background-level-1);
         background-color: var(--text-level-1);
-        border-radius: .5em;
-        padding: 0 5px;
+        border-radius: 8px;
+        padding: 0 10px;
         box-shadow: 0 5px 8px rgba(0, 0, 0, .3);
         transition: all .2s ease-in-out;
 
@@ -100,6 +99,7 @@
 
         & .download-text {
           font-size: 12px;
+          font-weight: 600;
         }
 
         &:hover {
