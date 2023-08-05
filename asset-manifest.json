@@ -1,27 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.2769f092.css",
-    "main.js": "/static/js/main.ee8b3902.js",
+    "main.css": "/static/css/main.68d3d753.css",
+    "main.js": "/static/js/main.0373d501.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/logo.png": "/static/media/logo.35f605dc31b1a0615087.png",
     "static/media/oc-on-the-laptop.png": "/static/media/oc-on-the-laptop.da9926968704fd409783.png",
     "static/media/nc-woman-typing-on-machine.png": "/static/media/nc-woman-typing-on-machine.16ae36ce152235470656.png",
-    "static/media/XiaolaiMonoSC-Regular.ttf": "/static/media/XiaolaiMonoSC-Regular.cac32d7ea74c44e43b0d.ttf",
     "static/media/oc-thinking.png": "/static/media/oc-thinking.d8910940481515189659.png",
-    "static/media/undraw_note.svg": "/static/media/undraw_note.33e3c6d0636bd994a1a6f14ffaa4cdb0.svg",
-    "static/media/undraw_coffee.svg": "/static/media/undraw_coffee.ea2afe15043bcbdd30403347900090f5.svg",
-    "static/media/undraw_fun-arrow.svg": "/static/media/undraw_fun-arrow.8d4fbf518f15a4a9f77c6acff380febf.svg",
     "static/media/undraw_envelope.svg": "/static/media/undraw_envelope.f6aacc3e3a2b750b6b54704a5d35f226.svg",
-    "static/media/undraw_code.svg": "/static/media/undraw_code.ce366f0a68c52d2ff4b1b4d42dc532d9.svg",
-    "static/media/undraw_fun-underline.svg": "/static/media/undraw_fun-underline.3352f1837bc38da58468fc9add25fd5b.svg",
     "index.html": "/index.html",
-    "static/media/undraw_curved-underline.svg": "/static/media/undraw_curved-underline.220d6268d363bd02c86738e493adb4a4.svg",
-    "main.2769f092.css.map": "/static/css/main.2769f092.css.map",
-    "main.ee8b3902.js.map": "/static/js/main.ee8b3902.js.map",
+    "main.68d3d753.css.map": "/static/css/main.68d3d753.css.map",
+    "main.0373d501.js.map": "/static/js/main.0373d501.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2769f092.css",
-    "static/js/main.ee8b3902.js"
+    "static/css/main.68d3d753.css",
+    "static/js/main.0373d501.js"
   ]
 }
