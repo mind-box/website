@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.inkio.me",
+  "homepage": "https://mind-box.github.io/website/",
   "dependencies": {
     "@ant-design/icons": "^5.1.4",
     "@testing-library/jest-dom": "^5.14.1",
