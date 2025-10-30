@@ -14,7 +14,7 @@ function Home(): JSX.Element {
     <div className="home">
       <div className="section">
         <div className="text-container">
-          <div className="main-title">📝MindBox(灵感盒子), a note-taking software that perfectly supports markdown syntax</div>
+          <div className="main-title">📝Inkio, a note-taking software that perfectly supports markdown syntax</div>
           <div className="sub-title">💡A thinking writing assistant that makes ideas happen better💥</div>
           <div className="download-group">
             <a href="https://apps.apple.com/cn/app/%E7%81%B5%E6%84%9F%E7%9B%92%E5%AD%90-markdown-%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6/id6453291713?mt=12" className="btn">

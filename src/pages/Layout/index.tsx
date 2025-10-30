@@ -9,7 +9,7 @@ function Layout(): JSX.Element {
     <div className="layout">
       <div className="header">
         <img className="logo" src={logo} alt="logo" />
-        <span className="app-name">MindBox(灵感盒子)</span>
+        <span className="app-name">Inkio</span>
       </div>
       <div className="body">
         <Outlet />
