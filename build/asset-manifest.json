@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.6fc02131.css",
-    "main.js": "/website/static/js/main.bbf829f2.js",
-    "static/js/787.71e672d5.chunk.js": "/website/static/js/787.71e672d5.chunk.js",
-    "static/media/logo.png": "/website/static/media/logo.35f605dc31b1a0615087.png",
-    "static/media/oc-on-the-laptop.png": "/website/static/media/oc-on-the-laptop.da9926968704fd409783.png",
-    "static/media/nc-woman-typing-on-machine.png": "/website/static/media/nc-woman-typing-on-machine.16ae36ce152235470656.png",
-    "static/media/oc-thinking.png": "/website/static/media/oc-thinking.d8910940481515189659.png",
-    "static/media/undraw_envelope.svg": "/website/static/media/undraw_envelope.f6aacc3e3a2b750b6b54704a5d35f226.svg",
-    "index.html": "/website/index.html",
-    "main.6fc02131.css.map": "/website/static/css/main.6fc02131.css.map",
-    "main.bbf829f2.js.map": "/website/static/js/main.bbf829f2.js.map",
-    "787.71e672d5.chunk.js.map": "/website/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/static/css/main.6fc02131.css",
+    "main.js": "/static/js/main.ca40dfbe.js",
+    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
+    "static/media/logo.png": "/static/media/logo.35f605dc31b1a0615087.png",
+    "static/media/oc-on-the-laptop.png": "/static/media/oc-on-the-laptop.da9926968704fd409783.png",
+    "static/media/nc-woman-typing-on-machine.png": "/static/media/nc-woman-typing-on-machine.16ae36ce152235470656.png",
+    "static/media/oc-thinking.png": "/static/media/oc-thinking.d8910940481515189659.png",
+    "static/media/undraw_envelope.svg": "/static/media/undraw_envelope.f6aacc3e3a2b750b6b54704a5d35f226.svg",
+    "index.html": "/index.html",
+    "main.6fc02131.css.map": "/static/css/main.6fc02131.css.map",
+    "main.ca40dfbe.js.map": "/static/js/main.ca40dfbe.js.map",
+    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fc02131.css",
-    "static/js/main.bbf829f2.js"
+    "static/js/main.ca40dfbe.js"
   ]
 }
