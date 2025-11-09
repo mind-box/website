@@ -1,26 +1,27 @@
-const markdown = `### 隐私政策
+const markdown = `### Privacy Policy
 
-我们是Inkio的开发团队。我们的应用程序（“Inkio”）非常重视您的隐私，并会坚持最高标准来保护它。通过使用“Inkio”或访问我们的网站，即表示您接受本隐私政策中概述的做法和政策。
+We are the development team behind **Inkio**. Our application (“Inkio”) takes your privacy very seriously and is committed to maintaining the highest standards of protection. By using “Inkio” or accessing our website, you agree to the practices and policies described in this Privacy Policy.
 
-本产品和网站可能包含指向其他网站或产品的链接。对于其他公司的隐私政策和/或做法，我们不承担任何责任。在链接到另一家公司时，请阅读该公司的隐私政策。
+Our product and website may contain links to other websites or products. We are not responsible for the privacy policies and/or practices of other companies. When you follow a link to another company, please review that company’s privacy policy.
 
-**我们不会收集的信息**
+**Information We Do Not Collect**
 
-我们不会在产品和网站中收集任何您的个人信息。我们无权访问您在“Inkio”中创建的内容或导入到“Inkio”中的笔记。您的灵感就是您的私有数据。
+We do not collect any of your personal information within the product or website. We do not have access to any content you create in “Inkio” or any notes you import into it. Your inspiration and ideas remain your private data.
 
-**我们收集哪些信息？**
+**Information We Collect**
 
-我们收集的所有信息均经过汇总和匿名处理，以保护用户个人隐私。我们仅以汇总形式使用这些数据，获取统计指标，而不是以识别您个人身份的方式使用，我们使用这些数据以改进我们的产品。有关设备类型、操作系统和用户体验的数据在使用我们的产品时会自动收集，仅用于优化和提高我们的产品和网站的可用性，以便为用户提供更好的服务。
+All information we collect is aggregated and anonymized to protect your privacy. We only use this data in aggregate form to derive statistical insights, not to identify you personally. This data helps us improve our products. Information about device type, operating system, and user experience may be automatically collected during use, solely for the purpose of optimizing and enhancing the usability of our product and website to provide a better user experience.
 
-**电子邮件订阅**
+**Email Communication**
 
-如果我们收到您的电子邮件或通过社交网络进行的通信，我们可能将使用该电子邮件或社交网络与您取得联系，为您提供最佳服务。
+If we receive your email or communication via social networks, we may use that email or social media account to contact you in order to provide better service or support.
 
-**本隐私政策的变更**
+**Changes to This Privacy Policy**
 
-由于产品的更新和迭代，我们会不定期更新本隐私政策。我们现在收集信息的使用受本隐私政策的约束。如果我们更改使用信息的方式时，我们将更新此隐私政策。在此之后，用户使用产品或浏览网站，受更改后的隐私政策约束。
-问题或疑虑
+We may update this Privacy Policy from time to time due to product updates and iterations. The use of information we collect is subject to the Privacy Policy in effect at the time such information is used. If we change how we use collected information, we will update this Privacy Policy accordingly. After such updates, continued use of the product or website indicates acceptance of the revised policy.
 
-如果您对隐私政策有任何疑问或疑虑，请向我们发送邮件咨询 ransixi@gmail.com。我们将尽一切努力解决您的疑虑。`
+**Questions or Concerns**
+
+If you have any questions or concerns about this Privacy Policy, please contact us at **[ransixi@gmail.com](mailto:ransixi@gmail.com)**. We will make every effort to address your concerns.`
 
 export default markdown;

@@ -134,5 +134,22 @@
       margin-top: 20px;
       color: var(--text-level-3);
     }
+
+    & .private-link {
+      text-align: center;
+      margin-top: 20px;
+
+      a {
+        display: inline-block;
+        font-size: 16px;
+        color: var(--text-level-3);
+        transition: all 0.3s ease;
+        text-decoration: underline;
+
+        &:hover {
+          color: #5852e6;
+        }
+      }
+    }
   }
 }

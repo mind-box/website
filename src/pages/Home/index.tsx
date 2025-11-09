@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import { JSX } from 'react';
+import { Link } from 'react-router-dom';
 import { AppleOutlined } from '@ant-design/icons';
 
 import thinkImg from '../../assets/oc-thinking.png';
@@ -52,6 +53,9 @@ function Home(): JSX.Element {
         <img className="email-icon" src={envelopeImg} alt="" />
         <div className="title">Contact us</div>
         <div className="email">ransixi@gmail.com</div>
+        <div className="private-link">
+          <Link to="/private">Privacy Policy</Link>
+        </div>
       </div>
     </div>
   );
