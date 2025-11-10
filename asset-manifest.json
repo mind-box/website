@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f2d35f7.css",
+    "main.js": "/static/js/main.1902d3ad.js",
+    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
+    "static/media/logo.png": "/static/media/logo.35f605dc31b1a0615087.png",
+    "static/media/oc-on-the-laptop.png": "/static/media/oc-on-the-laptop.da9926968704fd409783.png",
+    "static/media/nc-woman-typing-on-machine.png": "/static/media/nc-woman-typing-on-machine.16ae36ce152235470656.png",
+    "static/media/oc-thinking.png": "/static/media/oc-thinking.d8910940481515189659.png",
+    "static/media/undraw_envelope.svg": "/static/media/undraw_envelope.f6aacc3e3a2b750b6b54704a5d35f226.svg",
+    "index.html": "/index.html",
+    "main.7f2d35f7.css.map": "/static/css/main.7f2d35f7.css.map",
+    "main.1902d3ad.js.map": "/static/js/main.1902d3ad.js.map",
+    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f2d35f7.css",
+    "static/js/main.1902d3ad.js"
+  ]
+}
